@@ -1,5 +1,5 @@
 # Heading 1
-[Link](www.cbc.ca/news)
+[Link](https://www.cbc.ca/news)
 
 Lorem ipsum dolor amet twee glossier small batch kombucha direct trade, literally coloring book drinking vinegar tumeric copper mug mixtape. Vice banh mi ugh aesthetic cronut cred green juice blue bottle raclette hashtag kitsch butcher cray roof party. Whatever occupy **twee** **bold**, ramps man bun disrupt flannel hexagon adaptogen direct trade distillery. Food truck chicharrones paleo, tofu cred wayfarers hammock green juice deep v fixie art party vaporware brooklyn pop-up. Ugh godard kitsch unicorn yuccie hashtag. Meditation 3 wolf moon raclette, activated charcoal meh cred gastropub lomo. Palo santo pug taiyaki thundercats lyft DIY church-key XOXO succulents crucifix banjo YOLO next level raw denim enamel pin.
 
